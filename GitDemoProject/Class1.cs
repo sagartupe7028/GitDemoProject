@@ -11,5 +11,9 @@ namespace GitDemoProject
         public int MyProperty { get; set; }
 
         public int name { get; set; }
+
+        public string fname { get; set; }
+        public string lname { get; set; }
+        public string fullname { get; set; }
     }
 }
