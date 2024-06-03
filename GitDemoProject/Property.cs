@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace GitDemoProject
 {
-    class Program
+   public class Property
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello word");
-            Console.ReadLine();
-        }
+        public string name { get; set; }
+
+        public string Address { get; set; }
+
     }
 }
