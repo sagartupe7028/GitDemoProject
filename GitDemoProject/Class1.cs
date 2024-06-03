@@ -11,5 +11,8 @@ namespace GitDemoProject
         public int MyProperty { get; set; }
 
         public int name { get; set; }
+        public int id { get; set; }
+        public int mobnum { get; set; }
+        public int stdid { get; set; }
     }
 }
