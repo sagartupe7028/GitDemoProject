@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace GitDemoProject
 {
-    class Class2
+    class Class20
     {
-        public int MyProperty { get; set; }
-        public int id { get; set; }
-
-        public int num { get; set; }
     }
 }
